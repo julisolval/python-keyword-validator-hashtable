@@ -41,7 +41,7 @@ This project uses **Separate Chaining**:
 
 ## Algorithm Complexity
 
-Average time complexity of hash table operations:
+Average time complexity of hash table operations (search, insert, delete):
 
 ```
 O(1)
